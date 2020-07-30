@@ -1,0 +1,11 @@
+{
+    "name": "net.sirenix.odinserializer",
+    "displayName": "Odin Serializer",
+    "version": "1.1.1.0",
+    "unity": "5.6.2",
+    "description": "Fast, robust, powerful and extendible .NET serializer built for Unity ",
+    "keywords": [ "sirenix", "odin", "serializer" ],
+    "license": "MIT",
+    "category": "Editor Enhancement",
+    "dependencies": {}
+}
